@@ -60,9 +60,9 @@ Age-Calculator/
 ├── AgeCalculator.py        # Main application code
 ├── README.md               # Project documentation
 └── LICENSE                 # MIT license
-└── screenshot1.png          # image
-└── screenshot2.png          # image
-└── screenshot3.png          # image
+└── img1.png                # image
+└── img2.png                # image
+└── img3.png                # image
 
 ```
 
