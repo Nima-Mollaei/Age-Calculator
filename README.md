@@ -3,8 +3,6 @@
 
 A modern and interactive desktop application built with Python's Tkinter that calculates your age based on your selected birthdate.
 
-![screenshot](screenshot.png)
-
 ---
 
 ## ✨ Features
