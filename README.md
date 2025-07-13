@@ -7,8 +7,8 @@ A modern and interactive desktop application built with Python's Tkinter that ca
 
 ## ✨ Features
 
-- ✅ Select your birthdate using a **date picker** (Gregorian only).
-- 📆 Displays your **exact age** in years, months, and days
+- ✅ Select your birthdate using a **date picker** (Gregorian only)
+- 📆 Displays your **exact age** in years, months, and days.
 - 📅 Shows your **next birthday** and the **day of the week** it falls on
 - ⏳ Calculates how many **days are left** until your next birthday
 - 🕯️ Tells you which **candle number** you'll blow out next
