@@ -17,7 +17,7 @@ A modern and interactive desktop application built with Python's Tkinter that ca
 
 ---
 
-## 📸 GUI Preview:
+## 📸 GUI Preview
 
 <p align="center">
   <img src="img1.png" alt="Screenshot 1" width="30%"/>
