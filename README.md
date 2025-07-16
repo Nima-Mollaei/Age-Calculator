@@ -5,7 +5,7 @@ A modern and interactive desktop application built with Python's Tkinter that ca
 
 ---
 
-## ✨ Features
+## ✨ Features:
 
 - ✅ Select your birthdate using a **date picker** (Gregorian only)
 - 📆 Displays your **exact age** in years, months, and days
