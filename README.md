@@ -27,7 +27,7 @@ A modern and interactive desktop application built with Python's Tkinter that ca
 
 ---
 
-## 🛠️ Requirements:
+## 🛠️ Requirements
 
 - Python 3.x
 - [tkcalendar](https://pypi.org/project/tkcalendar/)
