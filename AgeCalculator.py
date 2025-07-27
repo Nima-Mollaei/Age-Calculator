@@ -81,4 +81,5 @@ progress_bar.pack()
 celebration = tk.Label(frame, text="", font=("Segoe UI", 13, "bold"), bg="white", fg="purple")
 celebration.pack(pady=20)
 
+
 root.mainloop()
