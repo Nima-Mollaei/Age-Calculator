@@ -4,6 +4,7 @@ from tkcalendar import DateEntry
 from datetime import datetime, timedelta
 import calendar
 
+
 def calculate_age():
     try:
         birthdate = date_picker.get_date()
